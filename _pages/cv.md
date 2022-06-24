@@ -6,4 +6,4 @@ nav: true
 nav_order: 3
 ---
 
-{% pdf "/assets/pdf/CV.pdf" %}
+{% pdf {{ page.pdf_file }} %}
