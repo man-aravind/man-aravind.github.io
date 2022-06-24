@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-01-31
 inline: true
 ---
 
-A simple inline announcement.
+Defended PhD thesis titled "Utilizing Noise to implement Logical operations in Bistable Systems".
