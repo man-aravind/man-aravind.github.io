@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow at the <a href='https://www.iitb.ac.in/'>Indian Institute of Technology (IIT) Bombay</a>. #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Postdoctoral fellow at the <a href='https://www.iitb.ac.in/'>Indian Institute of Technology (IIT) Bombay</a>.  #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
