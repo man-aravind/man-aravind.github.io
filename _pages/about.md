@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral fellow at the <a href='https://www.iitb.ac.in/'>Indian Institute of Technology (IIT) Bombay</a>.  #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Physicist | Exploring routes from dynamics&#127744 to design&#10052.  #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -17,8 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm currently a Postdoctoral fellow with [Prof. Punit Parmananda](https://iitb.irins.org/profile/155601)'s lab at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/), where I explore nonlinear phenomena through table-top experiments. I'm deeply passionate about studying the emergent complexity in dynamical systems and harnessing it to yield better design. During my PhD at [IISER Mohali](https://www.iisermohali.ac.in/) with [Prof. Sudeshna Sinha](https://www.iisermohali.ac.in/faculty/dps/sudeshna), I worked on understanding the interplay between noise and nonlinearity in multistable systems to make noise-aided logic gates. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+In general terms, **pursing science beyond curiosity into realizing tangible applications** excites me and I'm on a constant lookout for new themes to broaden my scope of work. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In addition to science, discussions on language, music and socio-politics engage my interest. I also dabble in writing [Tamil](https://en.wikipedia.org/wiki/Tamil_language) poetry and playing wind instruments on calm days.  
