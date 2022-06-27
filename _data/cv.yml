@@ -2,96 +2,83 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Manaoj Aravind V
+    #- name: Date of Birth
+    #  value: 28th November 1991
     - name: Languages
-      value: English, German
+      value: Tamil, English, Hindi
 
-- title: Education
-  type: time_table
+- title: Research Interests
+  type: list
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - <strong>Dynamical Systems | Chaos Computing | Stochastic Resonance | Nonlinear Electronics</strong>
+    - <p><em>Application of nonlinearity and emergent phenomena to yield better design.</em></p> <p>My PhD work involved using the interplay of noise and nonlinearity to make better logic gates. At present I study emergent behavior and control of coupled nonlinear systems, using both simulations and experiments.</p> <p>I’m deeply passionate about using complexity for better computation and most of my work has revolved around that theme. I'm looking for new avenues to expand the scope of my work.</p> 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Institute Postdoctoral Fellow
+      institution: Indian Institute of Technology (IIT) Bombay, INDIA
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - With <a href='https://iitb.irins.org/profile/155601'>Prof. Punit Parmananda</a>.
+        - Noise-aided logic gates through synchronization, Control of chaos through intermittent coupling, etc.
+       # - title: Description 3.
+       #   contents:
+       #     - Sub-description 1.
+       #     - Sub-description 2.
+    - title: Project Research Assistant
+      institution: Indian Institute of Technology (IIT) Bombay, INDIA
+      year: 2019-2020
       description:
-        - Description 1.
-        - Description 2.
+        - With <a href='https://iitb.irins.org/profile/155601'>Prof. Punit Parmananda</a>.
+        - Coupled dynamics of Ethanol lamp oscillators.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Integrated MS-PhD
+      institution: Indian Institute of Science Education and Research (IISER) Mohali, INDIA
+      year: 2012 - 2020
+      description:
+        - Thesis titled "Utilizing Noise to implement Logical operations in Bistable Systems".
+        - Under the guidance of <a href='https://www.iisermohali.ac.in/faculty/dps/sudeshna'>Prof. Sudeshna Sinha</a>. 
+        #- title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: BSc Physics
+      institution: Loyola College Chennai (Affiliated to the University of Madras), INDIA
+      year: 2009 - 2012
+      description:
+        - First Class Degree.
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Computational Skills
+      items: 
+        - <b>Fluent use of Python for scientific computation</b>, using open source packages such as NumPy, SciPy, Matplotlib, NetworkX and Pandas.
+        - <b>Use of MATLAB for live data analysis and interfacing</b> with experimental systems.
+        - <b>Video analysis using Python</b> used to study flame oscillations in ethanol lamps. 
+
+    - title: Experimental skills
+      items:
+        - <b>Design, construction and analysis of nonlinear electronic circuits</b> that serve as a proof-of-principle experimental platform.
+        - <b>Data acquisition and automation</b> using an external DAQ in electronic circuit experiments. 
+        - <b>Hands on experience</b> characterizing and studying flame oscillations in ethanol lamps - <em>a new table top experimental system</em>.
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2012
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - <b>Ranked among the top 1% in India</b> in <a href="https://www.iapt.org.in/exams/nse/ngpe.html">National Graduate Physics Examination (NGPE)</a> 2012, conducted by Indian Association of Physics Teachers (IAPT).
+        - <b>Best Physics Student Award</b> from Department of Physics, Loyola College. 
