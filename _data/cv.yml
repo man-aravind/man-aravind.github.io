@@ -75,6 +75,24 @@
 #      year: 2015-now
 #      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
+- title: Teaching and Mentorship
+  type: time_table
+  contents:
+    - title: Mr. Vaibhav Pachaulee - Master's thesis
+      institution: Mentor, IIT Bombay.
+      year: Spring 2022
+    - title: PHY 112 - Physics Laboratory II (Electromagnetism)
+      institution: Teaching Assistant, IISER Mohali. 
+      year: Spring 2016
+    - title: PHY 111 - Physics Laboratory I (Mechanics)
+      institution: Teaching Assistant, IISER Mohali.
+      year: Fall 2015
+    - title: PHY 112 - Physics Laboratory II (Electromagnetism)
+      institution: Teaching Assistant, IISER Mohali. 
+      year: Spring 2015
+
+
+
 - title: Honors and Awards
   type: time_table
   contents:
