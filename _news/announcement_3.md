@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-05-24 
+date: 2022-07-07 
 inline: true
 ---
 
-Our paper on <a href='https://doi.org/10.48550/arXiv.2206.06303'>Regulating dynamics through intermittent interactions</a> has been accepted for publication in *Physical Review E*.
+Our paper titled <a href='https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.014203'>Regulating dynamics through intermittent interactions</a> has been published in *Physical Review E*.
