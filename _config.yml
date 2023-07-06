@@ -6,13 +6,14 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Manaoj
 middle_name: 
 last_name: Aravind
-email: manaojaravind@iitb.ac.in
+email: avivekanandan@constructor.university
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal webpage of an early career researcher.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
 keywords: nonlinear, manaoj, aravind, chaos  # add your own keywords or leave empty
+ # with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -57,9 +58,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: #man-aravind # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: manaojaravind # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: manaoj-aravind-653893262 # your LinkedIn user name
 scholar_userid: plINTsQAAAAJ # your Google Scholar ID
-orcid_id: 0000-0002-5732-3383 # your ORCID ID
+orcid_id: # 0000-0002-5732-3383 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons

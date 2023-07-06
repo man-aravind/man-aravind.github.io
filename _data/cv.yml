@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Manaoj Aravind V
+      value: Manaoj Aravind Vivekanandan
     #- name: Date of Birth
     #  value: 28th November 1991
     - name: Languages
@@ -17,9 +17,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Associate 
+      institution: Constructor University Bremen, GERMANY
+      year: 2023 - Present
+      description: 
+        - With <a href='https://info.constructor.university/directory/meyer-ortmanns-external'>Prof. Hildegard Meyer-Ortmanns</a>.
+        - Dynamics of Heteroclinic networks as part of a DFG funded project. 
     - title: Institute Postdoctoral Fellow
       institution: Indian Institute of Technology (IIT) Bombay, INDIA
-      year: 2020 - Present
+      year: 2020 - 2022
       description:
         - With <a href='https://iitb.irins.org/profile/155601'>Prof. Punit Parmananda</a>.
         - Noise-aided logic gates through synchronization, Control of chaos through intermittent coupling, etc.
