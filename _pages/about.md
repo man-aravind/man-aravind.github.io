@@ -25,4 +25,4 @@ Previously, at [Prof. Punit Parmananda](https://iitb.irins.org/profile/155601)'s
 
 Broadly, **pursuing science beyond curiosity into realizing tangible applications** excites me and I'm on a constant lookout for new themes to broaden my scope of work. 
 
-In addition to science, discussions on language, music and socio-politics engage my interest. I also dabble in writing [Tamil](https://en.wikipedia.org/wiki/Tamil_language) poetry and playing wind instruments on calm days.  
+In addition to science, discussions on language, music and socio-politics engage my interest. I also dabble in writing [Tamil poetry](https://www.instagram.com/marakkilai/) and playing wind instruments on calm days.  
