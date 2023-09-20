@@ -6,8 +6,8 @@ subtitle: Physicist | Exploring routes from dynamics&#127744 to design&#10052.  
 
 profile:
   align: right
-  image: prof_pic5.jpg
-  image_cicular: false # crops the image to make it circular
+  image: PXL_20230617_150151319~4.jpg
+  image_cicular: true # crops the image to make it circular
   address: >
     <p>School of Science</p>
     <p>Constructor University</p>
