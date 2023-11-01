@@ -3,8 +3,64 @@
 
 #string{aps = {American Physical Society,}}
 
+@article{murali2023invertible,
+  abbr={Phys. Rev. Appl.},
+  title = {Noise-Aided Invertible Logic from Coupled Nonlinear Systems},
+  author = {Murali, K. and Aravind, Manaoj and Sinha, Sudeshna},
+  abstract="Invertible logic is a powerful new unconventional computing paradigm, providing bidirectional operations between inputs and outputs. It has found applications in important critical problems, such as integer factorization and machine learning. Here we propose a network of interconnected nonlinear systems that serve as our probabilistic bits (“p-bits”) to implement invertible logic in the presence of a noise floor. In the forward (or directed) mode, the inputs are fixed in our network, yielding outputs in accordance with and, or, nand, and nor logic functions. In the reverse (inverted) mode the output is clamped in the network, and the input nodes fluctuate among all possible logical input values consistent with the different logic functions. So the system acts as a unique invertible logic circuit by exploiting the probabilistic transitions between the dynamical states of the coupled noisy nonlinear systems. Interestingly, both the directed and the inverted mode are most robust and reliable in an optimal band of moderate noise, reminiscent of stochastic resonance. The concept is verified in proof-of-principle electronic circuit experiments, demonstrating the robustness of the architecture and the potential of this idea to be realized in a wide range of physical situations.",
+  journal = {Physical Review Applied},
+  volume = {20},
+  issue = {3},
+  pages = {034041},
+  numpages = {10},
+  year = {2023},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.20.034041},
+  selected = {true},
+  html = "https://link.aps.org/doi/10.1103/PhysRevApplied.20.034041", 
+  pdf = {inverse_logic.pdf}, 
+  bibtex_show={true}
+}
+
+
+@article{Aravind2023inertia,
+    abbr = {AIP Chaos},
+    author = {Aravind, Manaoj and Meyer-Ortmanns, Hildegard},
+    title = "{On relaxation times of heteroclinic dynamics}",
+    journal = {Chaos: An Interdisciplinary Journal of Nonlinear Science},
+    volume = {33},
+    number = {10},
+    pages = {103138},
+    year = {2023},
+    abstract = "{Heteroclinic dynamics provide a suitable framework for describing transient dynamics such as cognitive processes in the brain. It is appreciated for being well reproducible and at the same time highly sensitive to external input. It is supposed to capture features of switching statistics between metastable states in the brain. Beyond the high sensitivity, a further desirable feature of these dynamics is to enable a fast adaptation to new external input. In view of this, we analyze relaxation times of heteroclinic motion toward a new resting state, when oscillations in heteroclinic networks are arrested by a quench of a bifurcation parameter from a parameter regime of oscillations to a regime of equilibrium states. As it turns out, the relaxation is underdamped and depends on the nesting of the attractor space, the size of the attractor’s basin of attraction, the depth of the quench, and the level of noise. In the case of coupled heteroclinic units, it depends on the coupling strength, the coupling type, and synchronization between different units. Depending on how these factors are combined, finite relaxation times may support or impede a fast switching to new external input. Our results also shed some light on the discussion of how the stability of a system changes with its complexity.}",
+    issn = {1054-1500},
+    doi = {10.1063/5.0166803},
+    html = {https://doi.org/10.1063/5.0166803},
+    selected = {true},
+    pdf = {heteroclinic_relaxation.pdf}, 
+    bibtex_show={true}
+}
+
+@article{aravind2021emergent,
+  abbr={Phys. Rev. E},
+  title={Emergent noise-aided logic through synchronization},
+  author={Aravind, Manaoj and Parmananda, P and Sinha, Sudeshna},
+  journal={Physical Review E},
+  volume={104},
+  number={6},
+  pages={064207},
+  year={2021},
+  selected={true},
+  pdf={emergent.pdf},
+  publisher={APS}, 
+  arxiv={arXiv:2201.07675},
+  html={https://doi.org/10.1103/PhysRevE.104.064207}, 
+  bibtex_show={true},
+  abstract={In this article, we present a dynamical scheme to obtain a reconfigurable noise-aided logic gate that yields all six fundamental two-input logic operations, including the xor operation. The setup consists of two coupled bistable subsystems that are each driven by one subthreshold logic input signal, in the presence of a noise floor. The synchronization state of their outputs robustly maps to two-input logic operations of the driving signals, in an optimal window of noise and coupling strengths. Thus the interplay of noise, nonlinearity, and coupling leads to the emergence of logic operations embedded within the collective state of the coupled system. This idea is manifested using both numerical simulations and proof-of-principle circuit experiments. The regions in parameter space that yield reliable logic operations were characterized through a stringent measure of reliability, using both numerical and experimental data.}
+}
+
 @article{aravind2018coupling,
-  abbr={PLA},
+  abbr={Phys. Lett. A},
   title={Coupling induced logical stochastic resonance},
   author={Aravind, Manaoj and Murali, K and Sinha, Sudeshna},
   abstract ={In this work we will demonstrate the following result: when we have two coupled bistable sub-systems, each driven separately by an external logic input signal, the coupled system yields outputs that can be mapped to specific logic gate operations in a robust manner, in an optimal window of noise. So, though the individual systems receive only one logic input each, due to the interplay of coupling, nonlinearity and noise, they cooperatively respond to give a logic output that is a function of both inputs. Thus the emergent collective response of the system, due to the inherent coupling, in the presence of a noise floor, maps consistently to that of logic outputs of the two inputs, a phenomenon we term coupling induced Logical Stochastic Resonance. Lastly, we demonstrate our idea in proof of principle circuit experiments.},
@@ -48,7 +104,7 @@
 }
 
 @article{aravind2021competitive,
-  abbr={Chaos},
+  abbr={AIP Chaos},
   title={Competitive interplay of repulsive coupling and cross-correlated noises in bistable systems},
   author={Aravind, Manaoj and Sinha, Sudeshna and Parmananda, P},
   abstract={The influence of noise on synchronization has potential impact on physical, chemical, biological, and engineered systems. Research on systems subject to common noise has demonstrated that noise can aid synchronization, as common noise imparts correlations on the sub-systems. In our work, we revisit this idea for a system of bistable dynamical systems, under repulsive coupling, driven by noises with varying degrees of cross correlation. This class of coupling has not been fully explored, and we show that it offers new counter-intuitive emergent behavior. Specifically, we demonstrate that the competitive interplay of noise and coupling gives rise to phenomena ranging from the usual synchronized state to the uncommon anti-synchronized state where the coupled bistable systems are pushed to different wells. Interestingly, this progression from anti-synchronization to synchronization goes through a domain where the system randomly hops between the synchronized and anti-synchronized states. The underlying basis for this striking behavior is that correlated noise preferentially enhances coherence, while the interactions provide an opposing drive to push the states apart. Our results also shed light on the robustness of synchronization obtained in the idealized scenario of perfectly correlated noise, as well as the influence of noise correlation on anti-synchronization. Last, the experimental implementation of our model using bistable electronic circuits, where we were able to sweep a large range of noise strengths and noise correlations in the laboratory realization of this noise-driven coupled system, firmly indicates the robustness and generality of our observations.},
@@ -61,24 +117,6 @@
   pdf={competitive_interplay.pdf},
   html={https://doi.org/10.1063/5.0056173},
   bibtex_show={true}
-}
-
-@article{aravind2021emergent,
-  abbr={Phys. Rev. E},
-  title={Emergent noise-aided logic through synchronization},
-  author={Aravind, Manaoj and Parmananda, P and Sinha, Sudeshna},
-  journal={Physical Review E},
-  volume={104},
-  number={6},
-  pages={064207},
-  year={2021},
-  selected={true},
-  pdf={emergent.pdf},
-  publisher={APS}, 
-  arxiv={arXiv:2201.07675},
-  html={https://doi.org/10.1103/PhysRevE.104.064207}, 
-  bibtex_show={true},
-  abstract={In this article, we present a dynamical scheme to obtain a reconfigurable noise-aided logic gate that yields all six fundamental two-input logic operations, including the xor operation. The setup consists of two coupled bistable subsystems that are each driven by one subthreshold logic input signal, in the presence of a noise floor. The synchronization state of their outputs robustly maps to two-input logic operations of the driving signals, in an optimal window of noise and coupling strengths. Thus the interplay of noise, nonlinearity, and coupling leads to the emergence of logic operations embedded within the collective state of the coupled system. This idea is manifested using both numerical simulations and proof-of-principle circuit experiments. The regions in parameter space that yield reliable logic operations were characterized through a stringent measure of reliability, using both numerical and experimental data.}
 }
 
 @article{aravind2021ethanol,
@@ -110,8 +148,7 @@
   doi = {10.1103/PhysRevE.106.014203},
   html = {https://link.aps.org/doi/10.1103/PhysRevE.106.014203},
   arxiv={arXiv:2206.06303},
-  pdf = {regulating_dynamics.pdf}, 
-  selected = {true}, 
+  pdf = {regulating_dynamics.pdf},  
   bibtex_show={true}
 }
 
@@ -140,35 +177,7 @@ html="https://doi.org/10.1007/978-3-030-34747-5_33"
 @article{aravind2023shuffling,
   abbr={PRL},
   title={Synchronization through frequency shuffling},
-  author={Aravind, Manaoj and Vaibhav, Pachaulee and Ishant, Tiwari and Shamik, Gupta and Parmananda, P},
+  author={Aravind, Manaoj and Pachaulee, Vaibhav and Tiwari, Ishant and Gupta, Shamik and Parmananda, P},
   journal={(Manuscript in review) Physical Review Letters},
-  year={2023}
-}
-
-@article{murali2023invertible,
-  abbr={Phys. Rev. Appl.},
-  title = {Noise-Aided Invertible Logic from Coupled Nonlinear Systems},
-  author = {Murali, K. and Aravind, Manaoj and Sinha, Sudeshna},
-  abstract="Invertible logic is a powerful new unconventional computing paradigm, providing bidirectional operations between inputs and outputs. It has found applications in important critical problems, such as integer factorization and machine learning. Here we propose a network of interconnected nonlinear systems that serve as our probabilistic bits (“p-bits”) to implement invertible logic in the presence of a noise floor. In the forward (or directed) mode, the inputs are fixed in our network, yielding outputs in accordance with and, or, nand, and nor logic functions. In the reverse (inverted) mode the output is clamped in the network, and the input nodes fluctuate among all possible logical input values consistent with the different logic functions. So the system acts as a unique invertible logic circuit by exploiting the probabilistic transitions between the dynamical states of the coupled noisy nonlinear systems. Interestingly, both the directed and the inverted mode are most robust and reliable in an optimal band of moderate noise, reminiscent of stochastic resonance. The concept is verified in proof-of-principle electronic circuit experiments, demonstrating the robustness of the architecture and the potential of this idea to be realized in a wide range of physical situations.",
-  journal = {Physical Review Applied},
-  volume = {20},
-  issue = {3},
-  pages = {034041},
-  numpages = {10},
-  year = {2023},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevApplied.20.034041},
-  selected = {true},
-  html = "https://link.aps.org/doi/10.1103/PhysRevApplied.20.034041", 
-  pdf = {inverse_logic.pdf}, 
-  bibtex_show={true}
-}
-
-
-@article{Aravind2023inertia,
-  abbr={Chaos},
-  title={On inertia of heteroclinic dynamics},
-  author={Aravind, Manaoj and Meyer-Ortmanns, Hildegard},
-  journal={(Submitted) Chaos: An Interdisciplinary Journal of Nonlinear Science},
   year={2023}
 }

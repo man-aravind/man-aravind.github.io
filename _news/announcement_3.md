@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-07-07 
+date: 2023-02-15 
 inline: true
 ---
 
-Our paper titled <a href='https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.014203'>Regulating dynamics through intermittent interactions</a> has been published in *Physical Review E*.
+Joined as a Postdoc with <a href='https://info.constructor.university/directory/meyer-ortmanns-external'>Prof. Hildegard Meyer-Ortmanns</a> at Constructor University, Bremen, Germany.
