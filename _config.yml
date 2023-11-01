@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Manaoj
 middle_name: 
-last_name: Aravind
+last_name: Aravind, PhD
 email: avivekanandan@constructor.university
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The personal webpage of an early career researcher.
@@ -60,7 +60,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: #man-aravind # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: manaojaravind # your Twitter handle
-linkedin_username: manaoj-aravind-653893262 # your LinkedIn user name
+linkedin_username: manaoj-aravind-phd-653893262 # your LinkedIn user name
 scholar_userid: plINTsQAAAAJ # your Google Scholar ID
 orcid_id: # 0000-0002-5732-3383 # your ORCID ID
 medium_username: # your Medium username
