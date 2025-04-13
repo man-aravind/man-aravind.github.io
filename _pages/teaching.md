@@ -2,17 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: experience in teaching and mentorship.
+description: Materials for courses you taught. Replace this text with your description.
 nav: false
-nav_order: 2
+nav_order: 6
 ---
 
-Teaching Assistantship: 
+For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
- - PHY 112 - `Physics Laboratory II (Electromagnetism)`at IISER Mohali in Spring 2016.
- - PHY 111 - `Physics Laboratory I (Mechanics)`at IISER Mohali in Fall 2015.
- - PHY 112 - `Physics Laboratory II (Electromagnetism)`at IISER Mohali in Spring 2015.
-
-Mentorship: 
-
-- Mentored `Mr. Vaibhav Pachalee` for his Master's thesis at IIT Bombay during Spring 2022. 
+Organize your courses by years, topics, or universities, however you like!
