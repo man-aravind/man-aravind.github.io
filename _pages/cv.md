@@ -1,8 +1,10 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
-title: curriculum vitae
+title: CV
+description: Curriculum vitae of Manaoj Aravind.
 nav: true
-nav_order: 3
-cv_pdf: CV.pdf
+nav_order: 4
 ---
+
+[Download my CV (PDF)](/assets/pdf/CV.pdf)
