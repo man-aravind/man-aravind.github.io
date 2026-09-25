@@ -6,18 +6,23 @@ subtitle: Physicist | Exploring routes from dynamics&#127744 to design&#10052.  
 
 profile:
   align: right
-  image: PXL_20230617_150151319~4.jpg
-  image_cicular: true # crops the image to make it circular
-  address: >
-    <p>School of Science</p>
-    <p>Constructor University</p>
-    <p>(erst. Jacobs University)</p>
-    <p>Bremen 28759 GERMANY</p>
+  image: profile.jpg
+  image_circular: true # crops the image to make it circular
+  more_info: >
+    <p>Constructor University Bremen</p>
+    <p>Bremen, Germany</p>
 
-news: true  # includes a list of news items
+announcements:
+  enabled: true
+  scrollable: false
+  limit: 3
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true
+latest_posts:
+  enabled: false
 ---
+
+I study how nonlinear dynamics can support computation and design. My work combines mathematical models, simulations, and tabletop experiments.
 
 I'm currently a Postdoctoral fellow with [Prof. Hildegard Meyer-Ortmanns](https://info.constructor.university/directory/meyer-ortmanns-external)'s group at [Constructor University Bremen](https://constructor.university/). Here, we study coupled heteroclinic networks as models of transient processes in the brain and explore possible computational applications of such systems.  
 
