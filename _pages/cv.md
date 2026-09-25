@@ -15,6 +15,7 @@ nav_order: 4
 | --- | --- |
 | July 2025–April 2026 | Guest Researcher, FEMTO-ST Institute, Besançon, France; continued collaboration with Dr Jean-Julien Aucouturier's group. |
 | July 2024–July 2025 | Senior Postdoctoral Researcher, CNRS, FEMTO-ST Institute, Besançon, France. |
+| February–July 2024 | Adjunct Researcher, Constructor University Bremen, Germany; continued work with Prof. Hildegard Meyer-Ortmanns before joining FEMTO-ST in July 2024. |
 | February 2023–February 2024 | Postdoctoral Research Associate, Constructor University Bremen, Germany, with Prof. Hildegard Meyer-Ortmanns. |
 | September 2020–September 2022 | Institute Postdoctoral Fellow, IIT Bombay, India, with Prof. Punit Parmananda. |
 | November 2019–March 2020 | Project Research Assistant, IIT Bombay, India, with Prof. Punit Parmananda. |
