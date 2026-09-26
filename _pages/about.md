@@ -19,13 +19,21 @@ latest_posts:
   enabled: false
 ---
 
-I investigate how noise, coupling, and nonlinear dynamics can be used for computation and to model complex physical and biological systems. My work combines analytical and numerical modelling, experiments with nonlinear electronic circuits, and system identification from data.
+## From dynamics to design
 
-Most recently, I was a **Senior Postdoctoral Researcher at CNRS**, based at the **FEMTO-ST Institute in Besançon, France** (July 2024–July 2025), in Dr Jean-Julien Aucouturier's group. I continued collaborating as a Guest Researcher until April 2026. This work includes our [2026 paper on the bistable cortical dynamics of sleep onset](https://doi.org/10.1371/journal.pcbi.1014246).
+I am a physicist interested in how interacting physical systems produce organized behaviour, and how we can use that behaviour for computation. My work centres on **noise, nonlinearity, and coupled systems**, combining numerical modelling with experiments in nonlinear electronics.
 
-Previously, I worked with Prof. Hildegard Meyer-Ortmanns at Constructor University Bremen on heteroclinic networks, and with Prof. Punit Parmananda at IIT Bombay on experimental nonlinear dynamics. I completed my Integrated MS-PhD in Physics at IISER Mohali with Prof. Sudeshna Sinha, studying noise-assisted logic in bistable systems.
+Noise-aided logic has been the core of my research: how can fluctuating, bistable elements work together to perform reliable logical operations? Alongside this, I have studied synchronization and transient dynamics, and contributed to modelling the noisy dynamics of sleep onset from EEG observations.
 
-My research connects **physical computing, stochastic dynamics, synchronization, and modelling from experimental data**. Explore my [research](/research/), [publications](/publications/), or [CV](/cv/).
+My curiosity began with patterns in nature: how simple interactions can produce complex collective behaviour. That curiosity still informs the questions I ask, whether the system is a network of electronic oscillators, a flickering flame, or a model inferred from experimental data.
+
+Explore the [questions and experiments behind my research](/research/), my [publications](/publications/), or my work in [teaching and mentoring](/teaching/).
+
+### A little background
+
+I completed my Integrated MS-PhD at IISER Mohali with Prof. Sudeshna Sinha, working on noise-assisted logic in bistable systems. I subsequently worked on experimental nonlinear dynamics with Prof. Punit Parmananda at IIT Bombay, and on heteroclinic dynamics with Prof. Hildegard Meyer-Ortmanns at Constructor University Bremen.
+
+Most recently, I held a postdoctoral appointment at CNRS/FEMTO-ST in Besançon (July 2024–July 2025), in Dr Jean-Julien Aucouturier's group, followed by continued research collaboration until April 2026. See my [CV](/cv/) for appointments, education, and the downloadable PDF.
 
 My proposal **ARCADYA: Learning the Cortical Dynamics of Consciousness in Sleep and Coma** received the European Commission's **Seal of Excellence** in the MSCA Postdoctoral Fellowships 2024 call.
 

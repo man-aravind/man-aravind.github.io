@@ -9,11 +9,11 @@ nav_order: 4
 
 **[Download my full CV (PDF, September 2026)](/assets/pdf/Manaoj_Aravind_CV_September_2026.pdf)**
 
-## Research appointments
+## Research appointments and collaboration
 
 | Period | Appointment |
 | --- | --- |
-| July 2025–April 2026 | Guest Researcher, FEMTO-ST Institute, Besançon, France; continued collaboration with Dr Jean-Julien Aucouturier's group. |
+| July 2025–April 2026 | Continued research collaboration, FEMTO-ST Institute, Besançon, France, with Dr Jean-Julien Aucouturier's group. |
 | July 2024–July 2025 | Senior Postdoctoral Researcher, CNRS, FEMTO-ST Institute, Besançon, France. |
 | February–July 2024 | Adjunct Researcher, Constructor University Bremen, Germany; continued work with Prof. Hildegard Meyer-Ortmanns before joining FEMTO-ST in July 2024. |
 | February 2023–February 2024 | Postdoctoral Research Associate, Constructor University Bremen, Germany, with Prof. Hildegard Meyer-Ortmanns. |
@@ -28,7 +28,6 @@ nav_order: 4
 ## Competitive distinctions
 
 - **European Commission Seal of Excellence**, MSCA Postdoctoral Fellowships 2024, for *ARCADYA: Learning the Cortical Dynamics of Consciousness in Sleep and Coma*.
-- **Ranked second**, Chaire de Professeur Junior competition, SUPMICROTECH/FEMTO-ST, France (2025): *Explainable and physics-informed artificial intelligence for data-driven modelling of complex dynamical systems*.
 
 ## Selected presentations
 
