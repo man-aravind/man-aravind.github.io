@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-**[Download my full CV (PDF, September 2026)](/assets/pdf/CV.pdf)**
+**[Download my full CV (PDF, September 2026)](/assets/pdf/Manaoj_Aravind_CV_September_2026.pdf)**
 
 ## Research appointments
 
